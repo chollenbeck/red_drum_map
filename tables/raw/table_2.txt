@@ -1,0 +1,7 @@
+Species	Common Name	BLAST Hits	Number of Blocks	Mean Loci Per Block	Mean Comparison Block Size	Mean Map Block Size	Total Comparison Block Size	Total Map Block Size	Proportion of Genome in Blocks	Proportion of Map in Blocks
+Dicentrarchus labrax	European seabass	284	284	3.141	0.8	3.247	239.1	922.11	0.413	0.438
+Lates calcarifer	Barramundi	266	266	3.192	0.9	3.417	240.0	908.95	0.409	0.432
+Orecochromis niloticus	Nile tilapia	172	172	3.163	1.5	4.343	259.0	747.01	0.394	0.355
+Gasterosteus aculatus	Stickleback	150	150	3.047	1.1	5.390	167.3	808.44	0.361	0.384
+Takifugu rubripes	Fugu	97	97	3.196	1.2	9.147	113.6	887.27	0.404	0.421
+Tetraodon nigroviridis	Green spotted puffer	87	87	3.057	1.1	7.976	92.9	693.92	0.386	0.330

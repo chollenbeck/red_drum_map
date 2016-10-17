@@ -1,0 +1,20 @@
+data/
+	circos/: directory containing files for circos/
+	consensus_map.tab: consensus linkage map for both families
+	rdmap_consensus_v2.tab: consensus linkage map from Hollenbeck et al. (2015)
+	AF_map.tab: linkage map for Family A Female
+	AM_map.tab: linkage map for Family A Male
+	BF_map.tab: linkage map for Family B Female
+	BM_map.tab: linkage map for Family B Male
+	FamA_consensus.tab: consensus linkage map for Family A
+	FamB_consensus.tab: consensus linkage map for Family B
+	hap_summary_a.txt: summary of SNPs and haplotypes for Family A
+	hap_summary_b.txt: summary of SNPs and haplotypes for Family B
+	all.blocks.tab: syntenic blocks output from synteny_mapper
+	all.synteny.mapped.out: all synteny mapped loci output from synteny_mapper
+	blastx_nr.outfmt6: raw BLAST results for synteny mapped loci
+	chr_lengths.txt: chromosome lengths for comparison species' genomes
+	map_annot.csv: raw BLAST results for linkage map loci
+	size_dist.txt: length of linkage map sequences (base pairs)
+	synteny.out: summary of synteny information output by synteny_mapper
+	
