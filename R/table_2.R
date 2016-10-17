@@ -1,4 +1,5 @@
 ### Write a table for syntenic block stats ###
+library(plyr)
 library(dplyr)
 library(tidyr)
 
