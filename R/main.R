@@ -1,4 +1,6 @@
-# The main analysis script for the red drum linkage map synteny analysis
+# Create tables and figures
+
+# See data/README for descriptions of data files
 
 # Create the figures
 system("Rscript R/figure_1.R")
